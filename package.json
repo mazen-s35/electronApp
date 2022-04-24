@@ -1,0 +1,15 @@
+{
+    "name": "electron",
+    "version": "1.0.0",
+    "description": "this is first app electron",
+    "main": "index.js",
+    "scripts": {
+        "dev": "electron ."
+    },
+    "author": "jay",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^18.0.4",
+        "nedb": "^1.8.0"
+    }
+}
